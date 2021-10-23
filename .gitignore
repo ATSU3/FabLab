@@ -1,2 +1,3 @@
 .DS_Store
 MQTT/.env
+MQTT/node_modules/
